@@ -3,3 +3,6 @@ VulkanTest
 
 # SPIR-V byte code
 *.spv
+
+# Libs
+*lib/
